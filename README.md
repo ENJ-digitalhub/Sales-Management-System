@@ -1,10 +1,10 @@
 
-# 📊 Sales Tracker CLI System (STCS)
+# 📊 Sales Management System (SMS)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![CLI](https://img.shields.io/badge/Interface-Command_Line-orange)
 ![CSV](https://img.shields.io/badge/Export-CSV-green)
-![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-success)
 
@@ -31,7 +31,7 @@
 
 ## 🎯 Overview
 
-**Sales Tracker CLI System (STCS)** is a lightweight Python-based command-line application designed to help individuals and small businesses **record, manage, and analyze sales data** efficiently.
+**Sales Management System (SMS)** is a lightweight Python-based command-line application designed to help individuals and small businesses **record, manage, and analyze sales data** efficiently.
 
 It replaces notebooks and spreadsheets with a structured digital workflow while remaining simple, fast, and fully offline.
 
@@ -238,19 +238,19 @@ copy data/sales_data.json backup/
 
 ## 🗺️ Development Roadmap
 
-### **Phase 1 – Core CLI (v1.0) ✅**
+### **Phase 1 – Core CLI (v1.0) **
 
 * User login
 * Sales recording
 * Basic reports
 
-### **Phase 1.5 – Enhanced Features (v1.5) ✅**
+### **Phase 1.5 – Enhanced Features (v1.5) **
 
 * Record editing
 * CSV export
 * ASCII graph visualization
 
-### **Phase 2 – Planned 🚀**
+### **Phase 2 – Planned **
 
 * Date range filtering
 * Role-based access
@@ -349,9 +349,9 @@ With attribution.
 ## 👨‍💻 Author Information
 
 **Maintainer:** ENJ Digital Hub
-**Project:** Sales Tracker CLI System
-**Version:** 1.5
-**Status:** Production Ready
+**Project:** Sales Management System
+**Version:** 1.0
+**Status:** Ongoing
 **Language:** Python
 
 ---
