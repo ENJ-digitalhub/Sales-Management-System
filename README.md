@@ -238,19 +238,19 @@ copy data/sales_data.json backup/
 
 ## 🗺️ Development Roadmap
 
-### **Phase 1 – Core CLI (v1.0) **
+### **Phase 1 – Core CLI (v1.0)**
 
 * User login
 * Sales recording
 * Basic reports
 
-### **Phase 1.5 – Enhanced Features (v1.5) **
+### **Phase 1.5 – Enhanced Features (v1.5)**
 
 * Record editing
 * CSV export
 * ASCII graph visualization
 
-### **Phase 2 – Planned **
+### **Phase 2 – Planned**
 
 * Date range filtering
 * Role-based access
